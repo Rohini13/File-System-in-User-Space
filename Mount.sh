@@ -2,6 +2,4 @@ mkdir Proj
 cd Proj
 mkdir SubProj
 cd ..
-./EMOD_FS ./Proj/SubProj
-
-
+./FS -f ~/projects/OS_FUSE_Assignment/EMOD-FS/Proj/SubProj
