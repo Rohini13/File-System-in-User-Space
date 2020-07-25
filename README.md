@@ -9,4 +9,4 @@ A directory called Proj will be created and it will contain your mounted Subdire
 Now move to SubProj to create new files and write into them. \
 Move back to your initial directory and type following commands to unmount SubProj and delete it: \
 $ ./Unmount.sh \
-$ ./DelDir.sh
+$ ./DeleteMountPoint.sh
